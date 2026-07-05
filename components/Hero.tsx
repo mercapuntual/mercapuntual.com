@@ -15,15 +15,6 @@ export default function Hero() {
           software house potenciada por IA — construimos sistemas con
           estándar de Silicon Valley, mobile-first, para negocios reales.
         </p>
-        <div className="hero-actions">
-          <a className="btn-primary" href="#contacto">
-            Agendar una llamada
-          </a>
-          <a className="btn-ghost" href="#software">
-            Ver lo que construimos
-          </a>
-        </div>
-
         <div className="status-panel">
           <div className="status-header">
             <span>SISTEMA · MERCA_PUNTUAL.STATUS</span>
