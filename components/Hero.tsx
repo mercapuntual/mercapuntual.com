@@ -37,8 +37,8 @@ export default function Hero() {
               <div className="lbl">MXN generados en campañas</div>
             </div>
             <div className="status-cell">
-              <div className="num">2</div>
-              <div className="lbl">Sistemas en producción hoy</div>
+              <div className="num">100+</div>
+              <div className="lbl">Clientes satisfechos</div>
             </div>
           </div>
         </div>

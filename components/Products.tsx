@@ -5,8 +5,8 @@ export default function Products() {
         <div className="eyebrow">HOY CONSTRUIMOS</div>
         <h2 className="section-title">Software en producción, no mockups.</h2>
         <p className="section-desc">
-          Dos sistemas reales, mobile-first, corriendo hoy — ejemplo de lo
-          que construimos para nuestros clientes.
+          Sistemas reales, mobile-first, corriendo — ejemplos de lo que
+          construimos para nuestros clientes.
         </p>
 
         <div className="products">
